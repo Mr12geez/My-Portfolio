@@ -24,7 +24,7 @@
   
   /* Add an active class to highlight the current page */
   .topnav a.active {
-    background-color: black;
+    background-color: green;
     color: white;
   }
   
@@ -127,7 +127,7 @@
     cursor: pointer;
 }
 .fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-github:hover {
-    color: grey;
+    color: green;
 }
 .fab {
     color: black;
