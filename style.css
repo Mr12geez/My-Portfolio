@@ -1,7 +1,7 @@
 
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: grey;
+    background-color: white;
     overflow: hidden;
   }
   
@@ -18,13 +18,13 @@
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: grey;
-    color: white;
+    background-color: white;
+    color: grey;
   }
   
   /* Add an active class to highlight the current page */
   .topnav a.active {
-    background-color: green;
+    background-color: grey;
     color: white;
   }
   
@@ -127,7 +127,7 @@
     cursor: pointer;
 }
 .fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-github:hover {
-    color: white;
+    color: grey;
 }
 .fab {
     color: black;
@@ -135,6 +135,6 @@
 
 /* footer styling */
  #footer {
-    background-color: grey;
+    background-color: white;
     text-align: center;
 }
