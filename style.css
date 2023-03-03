@@ -24,7 +24,7 @@
   
   /* Add an active class to highlight the current page */
   .topnav a.active {
-    background-color: green;
+    background-color: black;
     color: white;
   }
   
