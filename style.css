@@ -9,7 +9,7 @@
   .topnav a {
     float: left;
     display: block;
-    color: green;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -24,7 +24,7 @@
   
   /* Add an active class to highlight the current page */
   .topnav a.active {
-    background-color: black;
+    background-color: green;
     color: white;
   }
   
