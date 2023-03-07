@@ -21,3 +21,9 @@ function myFunction() {
       x.className = "topnav";
     }
   }
+
+// Get the current year
+const currentYear = new Date().getFullYear();
+
+// Set the text of the span element to the current year
+document.getElementById('currentYear').textContent = currentYear;
